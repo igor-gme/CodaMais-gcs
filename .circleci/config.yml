@@ -65,7 +65,7 @@ jobs:
 
       - add_ssh_keys:
           fingerprints:
-            - "1a:65:04:a1:9a:22:ee:7a:36:1b:cc:d3:8d:88:49:d7"
+            - "85:9a:bd:14:4c:0d:fa:b6:46:0c:bf:eb:d3:3f:a8:54"
 
       - deploy:
           name: Deploy Master to Heroku
